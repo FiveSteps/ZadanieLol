@@ -1,0 +1,13 @@
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\bin\Debug\netcoreapp3.1\ZadanieLol.exe
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\bin\Debug\netcoreapp3.1\ZadanieLol.deps.json
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\bin\Debug\netcoreapp3.1\ZadanieLol.runtimeconfig.json
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\bin\Debug\netcoreapp3.1\ZadanieLol.runtimeconfig.dev.json
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\bin\Debug\netcoreapp3.1\ZadanieLol.dll
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\bin\Debug\netcoreapp3.1\ZadanieLol.pdb
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\obj\Debug\netcoreapp3.1\ZadanieLol.csprojAssemblyReference.cache
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\obj\Debug\netcoreapp3.1\ZadanieLol.AssemblyInfoInputs.cache
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\obj\Debug\netcoreapp3.1\ZadanieLol.AssemblyInfo.cs
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\obj\Debug\netcoreapp3.1\ZadanieLol.csproj.CoreCompileInputs.cache
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\obj\Debug\netcoreapp3.1\ZadanieLol.dll
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\obj\Debug\netcoreapp3.1\ZadanieLol.pdb
+C:\Users\JackYellow\Desktop\ZadanieLol\ZadanieLol\obj\Debug\netcoreapp3.1\ZadanieLol.genruntimeconfig.cache
